@@ -1,0 +1,93 @@
+body{
+background-color: rgb(110, 219, 252);
+
+}
+
+h1{
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+color: aliceblue;
+text-align: center;
+
+
+}
+.destaque{
+color: rgb(205, 28, 28);
+font-size: 45px;
+
+
+}
+
+.França{
+color: rgb(205, 28, 28);
+}
+
+.coxinha{
+color: rgb(216, 109, 33);
+}
+
+#coxinha{
+    width: 450px;
+    
+}
+
+h2{
+color: aliceblue;
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+font-style: italic;
+
+}
+
+
+.crepe-texto{
+color: rgb(157, 92, 217);
+}
+
+#crepe{
+width: 450px;
+}
+
+h3{
+color: aliceblue;
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+font-style: italic;
+
+}
+
+.bomba{
+color: rgb(89, 64, 64);
+
+}
+
+#bomba{
+width: 450px;
+
+}
+
+ul{
+color: rgb(255, 255, 255);
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+
+
+}
+
+.classe{
+display: flex;
+align-items: flex-start;
+gap: 20px;
+margin: 40px;
+
+}
+
+#bandeira{
+width: 450px;
+
+}
+
